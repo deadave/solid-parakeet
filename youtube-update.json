@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.44.0)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/deadave/solid-parakeet/releases/download/15/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.45.0)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/deadave/solid-parakeet/releases/download/16/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/deadave/solid-parakeet/update/build.md"
 }
